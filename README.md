@@ -5,7 +5,8 @@ Pojeto feito na IDE Visual Studio Code em Html, CSS e Javascript[^1].
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span>Projeto de desafio Dio Campus Expert - Autoconhecimento</span>
 </h1>
-Este artigo tem como objetivo mostrar alguns pontos do Autoconhecimento e liderança na minha vida e a reciliência e persistência.
+Este artigo tem como objetivo mostrar alguns pontos do Autoconhecimento e liderança na minha vida e a resiliência e persistência.
+
 
 Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio.
 
