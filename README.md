@@ -6,7 +6,9 @@ Pojeto feito na IDE Visual Studio Code em Html, CSS e Javascript[^1].
     <span>Projeto de desafio Dio Campus Expert - Autoconhecimento</span>
 </h1>
 Este artigo tem como objetivo mostrar alguns pontos do Autoconhecimento e liderança na minha vida, a resiliência e a persistência.
-![Desafio2-AutoConhecimento](https://github.com/user-attachments/assets/3c483697-83fc-41f7-9bfa-7f7d087040af)
+
+![Desafio-2 - AutoConhecimento](https://github.com/user-attachments/assets/d7e2acff-e75d-4ba2-8046-41dc9fc4aa73)
+
 
 Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio.
 
