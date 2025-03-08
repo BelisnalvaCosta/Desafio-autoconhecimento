@@ -1,5 +1,3 @@
-# Autoconhecimento - DIO-CampusExpert11
-
 Pojeto feito na IDE Visual Studio Code em Html, CSS e Javascript[^1].
 
 <h1>
