@@ -9,11 +9,6 @@ Este artigo tem como objetivo mostrar alguns pontos do Autoconhecimento e lidera
 
 ![Desafio-2 - AutoConhecimento](https://github.com/user-attachments/assets/d7e2acff-e75d-4ba2-8046-41dc9fc4aa73)
 
-
-Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio.
-
-[![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066)
-
 ## 🤖 Tecnologias Utilizadas
 ## Front-end
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
